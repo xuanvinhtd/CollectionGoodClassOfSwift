@@ -1,10 +1,4 @@
-//
-//  AppDelegate.swift
-//  eMartMall
-//
-//  Created by XuanVinhtd on 6/10/17.
-//  Copyright © 2017 hanbiro. All rights reserved.
-//
+// Tự học Swift 4.0 - xuanvinhtd
 
 import UIKit
 import UserNotifications
